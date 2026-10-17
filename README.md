@@ -5,7 +5,7 @@ R code for burden and risk-attributable fraction analysis of diabetic kidney dis
 This repository contains reproducible analytical scripts to estimate DALY, YLL, YLD, population attributable fraction (PAF), sensitivity analysis, health inequality metrics, and global spatial mapping for DKD attributable to modifiable risk factors.
 
 ## Scripts
-gbd_burden_analysis.R`: Main disease burden estimation (DALY/YLL/YLD)
+- `gbd_burden_analysis.R`: Main disease burden estimation (DALY/YLL/YLD)
 - `case_control_paf.R`: Calculation of population attributable fractions
 - `joint_paf_sensitivity.R`: Sensitivity analysis for joint risk factor PAF
 - `inequality_metrics.R`: Health inequality assessment
